@@ -1,1 +1,1 @@
-hi this is my first tym
+hi this is my first repository
